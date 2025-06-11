@@ -1,0 +1,30 @@
+# Ignorar o ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
+# Logs
+*.log
+
+# Dados temporários ou de saída
+dados/dados_brutos/
+dados/processados/
+
+# Banco exportado ou backups
+*.sql
+*.bak
