@@ -102,7 +102,7 @@ Todas com **chaves estrangeiras** para integridade referencial.
 
 ### 📊 Diagrama Relacional
 
-![Diagrama do Banco de Dados](docs/diagrama_bd.png)
+![Image](https://github.com/user-attachments/assets/51accfb4-08ab-437e-acdf-4ef687f1821f)
 
 ---
 
@@ -112,13 +112,3 @@ Todas com **chaves estrangeiras** para integridade referencial.
 - Logger informativo e estruturado
 - Funções auxiliares reutilizáveis (safe casting, validação)
 - Pronto para CI/CD com mocks
-
----
-
-## 🤝 Contribuição
-Pull requests são bem-vindos!
-
----
-
-## 📜 Licença
-Este projeto é de uso pessoal/didático. Licença aberta a critério do autor.
